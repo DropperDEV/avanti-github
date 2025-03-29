@@ -5,7 +5,7 @@ export default function Header() {
     <header className="flex justify-center items-center  gap-4">
       <img src={GhLogo} alt="Logo" />
       <h1 className=" text-white font-semibold text-6xl">
-        Perfil <strong className="font-extrabold">GitHub</strong>
+        PerfiI <strong className="font-extrabold">GitHub</strong>
       </h1>
     </header>
   );
