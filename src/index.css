@@ -1,3 +1,20 @@
 @import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
 
+@theme{
+    --color-blue: #005CFF;
+    --color-red:#FF0000;
+    --color-gray: #D9D9D9;
+    --color-black: #000000;
+}
 
+@layer base{
+    body {
+    @apply bg-black;
+
+    }
+
+    h1,h2{
+        @apply 
+    }
+}
