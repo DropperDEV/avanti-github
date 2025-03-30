@@ -1,12 +1,11 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Projeto de teste técnico da empresa Avanti
+  Este projeto foi desenvolvido para uma etapa do processo de selação, onde foi pedido para seguir um layout no figma e foi descritos as seguires funcionalidades:
+    -1. Usuário digitar um nome de usuário, clicar no botão e chamar a API do GITHUB na rota de users
+    -2. Ficar amostra informações relevantes do usuário.
+    -3. Não foi solicitado responsivididade, sendo essa a razão de não aplicar.
+# Para iniciar este projeto você pode:
+    -1. Acessar o site [Clique Aqui!](https://dropperdev.github.io/avanti-github/)
+    -2. Também pode usar o comando:
+    ```
+    npm i, então acessar a sessão localhost.
+    ```
