@@ -13,7 +13,7 @@ Este projeto foi desenvolvido para uma etapa do processo de seleção, onde foi 
 
    ```sh
    npm i
-   npm start
+   npm run dev
    ```
 
 Isso instalará as dependências e iniciará o projeto localmente.
